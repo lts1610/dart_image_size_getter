@@ -8,7 +8,7 @@ environment:
   sdk: ">=2.2.0 <3.0.0"
 
 dependencies:
-  collection: ^1.14.12
+  collection: 1.14.11
   hashcodes: ^1.0.0
 #  path: ^1.6.0
 
